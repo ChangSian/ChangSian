@@ -11,7 +11,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChangSian&count_bg=%2395DFAF&title_bg=%239A9897&icon=python.svg&icon_color=%23FFBCF5&title=HITs%21&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
-### **I'm a data engineer in Taiwan**
+## **I'm a data engineer in Taiwan**
 <!--
 【Competition】
 
@@ -56,7 +56,7 @@
 #### Database:
 
 ![Microsoft SQL Sever](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white)
-![Microsoft SQL Sever](https://img.shields.io/badge/Teradata-E34F26?style=flat&logo=teradata&logoColor=white)
+![Teradata](https://img.shields.io/badge/Teradata-E34F26?style=flat&logo=teradata&logoColor=white)
 
 #### Data Framework and Application:
 
@@ -66,6 +66,8 @@
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white)
 ![Conda](https://img.shields.io/badge/Conda-342B029.svg?&style=flat&logo=anaconda&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-CC2927.svg?&style=flat&logo=keras&logoColor=white)
+![Tensorflow](https://img.shields.io/badge/Tensorflow-F37626.svg?&style=flat&logo=tensorflow&logoColor=white)
 
 
 #### IDE:
